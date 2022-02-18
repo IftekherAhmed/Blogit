@@ -1,0 +1,33 @@
+
+
+/* BEGIN Regular */
+
+@font-face {
+  font-family: 'Open Sans';
+  src: url("../fonts/OpenSans/OpenSans-Regular.eot?v=1.1.0");
+  src: url("../fonts/OpenSans/OpenSans-Regular.eot?#iefix&v=1.1.0") format("embedded-opentype"), url("../fonts/OpenSans/OpenSans-Regular.woff2?v=1.1.0") format("woff2"), url("./fonts/OpenSans/OpenSans-Regular.woff?v=1.1.0") format("woff"), url("../fonts/OpenSans/OpenSans-Regular.ttf?v=1.1.0") format("truetype"), url("../fonts/OpenSans/OpenSans-Regular.svg?v=1.1.0#Regular") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+/* END Regular */
+
+.open_sans{	
+  font-family: Open Sans,Arial,sans-serif;
+}
+
+
+@font-face {
+    font-family: 'BernhardFashion BT';
+    src: url('../fonts/bernhardfashion_bt/BernhardFashionBT-Regular.eot');
+    src: url('../fonts/bernhardfashion_bt/BernhardFashionBT-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/bernhardfashion_bt/BernhardFashionBT-Regular.woff2') format('woff2'),
+        url('../fonts/bernhardfashion_bt/BernhardFashionBT-Regular.woff') format('woff'),
+        url('../fonts/bernhardfashion_bt/BernhardFashionBT-Regular.ttf') format('truetype'),
+        url('../fonts/bernhardfashion_bt/BernhardFashionBT-Regular.svg#BernhardFashionBT-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+/* END Regular */
+
+.bernhardfashion_bt{	
+  font-family: BernhardFashion BT;
+}

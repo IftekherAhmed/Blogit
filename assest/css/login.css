@@ -1,0 +1,85 @@
+
+.main {
+	background: url('../images/login/bg.jpg') no-repeat;
+	background-size: cover;
+	padding: 150px 0px 50px 0px;
+	min-height: 700px;
+}
+
+.form-bg {
+	background: url('../images/login/conbg.png') repeat;
+	padding: 35px 25px 35px 25px;
+}
+
+.form-me {
+}
+
+.form-me form{	
+}
+
+.form-me form input {
+	height: 50px;
+	margin: 1%;
+	border-radius: 0;
+	color: #696969;
+}
+
+.form-me form div {
+	padding: 0;
+	margin-top: 10px;
+}
+
+.form-me form div div {
+	padding: 1px;
+}
+
+.form-me form div div input.btn {
+	color: white;
+	font-size: 15px;
+	transition: 0.5s ease-in;
+}
+
+.form-me form div div input.btn:hover {
+	background: black;
+}
+
+.form-me form div div input.btn:focus {
+	background: black;
+	border:0px ;
+}
+
+.form-me form div div input.btn-success {
+	background: #106B60;
+	border: none;
+	transition: 0.5s ease-in;
+}
+
+.form-me form div div input.btn-success:focus {
+	background: #106B60;
+	border: none;
+	transition: 0.5s ease-in;
+}
+
+.form-me form div div input.btn-success:active {
+	background: #106B60;
+	border: none;
+	transition: 0.5s ease-in;
+}
+
+.form-me form div div input.btn-primary {
+	background: #34495E;
+	border: none;
+	transition: 0.5s ease-in;
+}
+
+.form-me form div div input.btn-primary:focus {
+	background: #34495E;
+	border: none;
+	transition: 0.5s ease-in;
+}
+
+.form-me form div div input.btn-primary:active {
+	background: #34495E;
+	border: none;
+	transition: 0.5s ease-in;
+}

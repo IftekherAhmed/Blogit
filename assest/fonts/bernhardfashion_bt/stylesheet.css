@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'BernhardFashion BT';
+    src: url('BernhardFashionBT-Regular.eot');
+    src: url('BernhardFashionBT-Regular.eot?#iefix') format('embedded-opentype'),
+        url('BernhardFashionBT-Regular.woff2') format('woff2'),
+        url('BernhardFashionBT-Regular.woff') format('woff'),
+        url('BernhardFashionBT-Regular.ttf') format('truetype'),
+        url('BernhardFashionBT-Regular.svg#BernhardFashionBT-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
